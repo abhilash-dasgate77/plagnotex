@@ -1,4 +1,10 @@
-open plaganotex.py with the following command
+Before starting the tool, you must add files in the same directory where the tool is downloaded. You can add some code files i.e. 
+0033.txt, 0023.py
+NOTE:- Make sure the files have text and can be edited using a texteditor.
+The above files are given in the repository as a reference.
+/*INSTRUCTIONs*/
+
+Now open plaganotex.py with the following command
 ~$ python3 plaganotex.py
 
 Step 1: Press 'clear command' to wipe out the release plag text area.
