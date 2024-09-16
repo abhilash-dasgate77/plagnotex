@@ -12,7 +12,7 @@ Step 2: Add an integer between 1 - 100 in the release plag text area.
 Step 3: Press 'add command'. // text area will be disabled //
 Step 4: Click 'check plagiarism'. //Wait for a second //
 
-The result will be displayed on the Oliver rectangular label.
+The result will be displayed on the Olive rectangular label.
 // something like this//
 Current Path assigned:  /home/abhilash/Documents/Codes/DaaLab/CopyCheck
 Total files =  34
